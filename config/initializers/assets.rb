@@ -10,6 +10,7 @@ Rails.application.config.assets.paths << Rails.root.join('node_modules')
 Rails.application.config.assets.paths << Rails.root.join('vendor')
 Rails.application.config.assets.paths << Rails.root.join('vendor', 'plantilla' )
 Rails.application.config.assets.paths << Rails.root.join('vendor', 'plantilla', 'assets' )
+
 # Rails.application.config.assets.paths << Rails.root.join('vendor', 'plantilla', 'assets', 'ico')
 # Rails.application.config.assets.paths << Rails.root.join('vendor', 'plantilla', 'assets', 'img')
 # Rails.application.config.assets.paths << Rails.root.join('vendor', 'plantilla', 'assets', 'img', 'backgrounds')
